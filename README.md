@@ -1,8 +1,6 @@
-# Product Name
-> Short blurb about what your product does.
+# Online Portfolio
+> Created this portfolio to showcase the skills I learned while attending Case Western Reserve University's coding boot camp.
 
-
-One to two paragraph statement about your product and what it does.
 
 ![](header.png)
 
